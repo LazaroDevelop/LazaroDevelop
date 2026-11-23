@@ -104,7 +104,7 @@ If either of these interests you, **let's talk!** 👇
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LazaroDevelop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LazaroDevelop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazaroDevelop&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
