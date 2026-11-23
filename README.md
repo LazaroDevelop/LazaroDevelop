@@ -93,18 +93,18 @@ If either of these interests you, **let's talk!** 👇
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**meeting-scheduler**](https://github.com/LazaroDevelop/meeting-scheduler) | Meeting room booking API built with hexagonal architecture, a full test suite, and Testcontainers | Java · Spring Boot · PostgreSQL · Docker |
-| [**chat-assitant-spring-ai**](https://github.com/LazaroDevelop/chat-assitant-spring-ai) | AI assistant using Retrieval-Augmented Generation (RAG) with Spring AI and pgvector | Spring AI · PostgreSQL · pgvector |
+| [**animal_information_assistant**](https://github.com/LazaroDevelop/animal_information_assistant) | AI assistant using Retrieval-Augmented Generation (RAG) with Spring AI and pgvector | Spring AI · PostgreSQL · pgvector |
 | [**spring-localstack-aws-integration**](https://github.com/LazaroDevelop/spring-localstack-aws-integration) | Local AWS integration using LocalStack and Terraform | Java 21 · Spring Boot · AWS · Terraform |
 | [**reactive-api**](https://github.com/LazaroDevelop/reactive-api) | Reactive REST API with Multi-Factor Authentication (MFA) | Spring WebFlux · Spring Security |
 | [**Vehicles**](https://github.com/LazaroDevelop/Vehicles) | Vehicle inventory REST API with caching and integration tests | Spring Boot · Redis · Docker |
-| [**intercomunication-services**](https://github.com/LazaroDevelop/intercomunication-services) | Microservices setup with API Gateway, Service Registry, and Config Server | Spring Cloud |
+| [**inter_service_communication**](https://github.com/LazaroDevelop/inter_service_communication) | Microservices setup with API Gateway, Service Registry, and Config Server | Spring Cloud |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LazaroDevelop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LazaroDevelop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazaroDevelop&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
